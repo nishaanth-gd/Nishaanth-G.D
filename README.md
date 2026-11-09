@@ -45,3 +45,25 @@ Thanks for visiting my profile!
 
 - LeetCode: "Visit My LeetCode Profile" (https://leetcode.com/u/nishaanthgopalsamy/)
 - GitHub: "Visit My GitHub Profile" (https://github.com/Nishaanth G.D).
+
+- ---
+
+🚀 My Projects
+
+1. MediQueue – Hospital Token Booking App
+
+- A mobile application designed to simplify hospital token booking.
+- Displays queue position and estimated waiting time.
+- Technology: Flutter, Dart.
+
+2. LPG Gas Leakage Detection System
+
+- An Arduino-based project to detect LPG gas leakage.
+- Uses a gas sensor and alert system.
+- Technology: Arduino, MQ-2 Sensor, C++.
+
+3. C++ Programming Practice
+
+- Solving programming problems and improving logical thinking.
+- Practising Data Structures and Algorithms.
+- Language: C++.
