@@ -38,4 +38,10 @@ Thanks for visiting my profile!
 
 - Practising problems on LeetCode.
 - Improving my programming and problem-solving skills.
-- Learning through hands-on projects.
+- Learning through hands-on projects
+- ---
+
+🧩 Coding Profiles
+
+- LeetCode: "Visit My LeetCode Profile" (https://leetcode.com/u/nishaanthgopalsamy/)
+- GitHub: "Visit My GitHub Profile" (https://github.com/Nishaanth G.D).
